@@ -15,7 +15,7 @@ O usuário seleciona um herói pré-definido e visualiza seu nível corresponden
 
 ## Como usar
 
-1. Abra o arquivo `index.html` no navegador.  
+1. Acesse o link: [Clique aqui para abrir o projeto](https://romeusorionaet.github.io/Hero-XP---DIO.github.io/)
 2. Selecione um herói no menu.  
 3. Clique em **Ver Nível** para ver o nível do herói baseado no XP.
 
