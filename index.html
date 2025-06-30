@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Classificador de Herói</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Classificador de Nível de Herói</h1>
+
+      <label for="heroiSelect">Escolha um herói:</label>
+      <select id="heroiSelect">
+        <option value="">-- Selecione --</option>
+        <option value="Merlin">Merlin</option>
+        <option value="Athena">Athena</option>
+        <option value="Zara">Zara</option>
+        <option value="Kael">Kael</option>
+        <option value="Gato de Botas">Gato de Botas</option>
+      </select>
+
+      <button onclick="mostrarNivel()">Ver Nível</button>
+
+      <p id="resultado"></p>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
